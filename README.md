@@ -4,16 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=欢迎来到我的主页！;编码+%7C+创造+%7C+创新;OOIUa!" alt="Typing SVG" />
 </div>
 
-## 🚀 关于我
-
-```javascript
-const ooiua = {
-    状态: "正在码代码",
-    热爱: ["Web开发", "开源社区", "科技创新"],
-    信条: "写代码，搞破坏，快速学习",
-    当前目标: "打造有价值的酷项目"
-};
-```
 
 ## 🛠️ 技术栈
 

@@ -1,13 +1,13 @@
-# 👋 你好，我是 OOIU！
+# 👋 你好，我是 OOIUa！
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=欢迎来到我的主页！;编码+%7C+创造+%7C+创新;OOIU!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=欢迎来到我的主页！;编码+%7C+创造+%7C+创新;OOIUa!" alt="Typing SVG" />
 </div>
 
 ## 🚀 关于我
 
 ```javascript
-const ooiu = {
+const ooiua = {
     状态: "正在码代码",
     热爱: ["Web开发", "开源社区", "科技创新"],
     信条: "写代码，搞破坏，快速学习",
@@ -42,24 +42,24 @@ const ooiu = {
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OOIU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OOIU&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OOIUa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OOIUa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OOIU&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OOIUa&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub 奖杯
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OOIU&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OOIUa&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ## 📈 活跃度图表
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=OOIU&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=OOIUa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ## 🐍 看我吃掉你的贡献
@@ -72,10 +72,10 @@ const ooiu = {
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OOIU)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ooiu_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ooiu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ooiu.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OOIUa)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ooiua_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ooiua)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ooiua.dev@gmail.com)
 
 </div>
 
@@ -89,10 +89,10 @@ const ooiu = {
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIU&repo=project1&theme=tokyonight)](https://github.com/OOIU/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIU&repo=project2&theme=tokyonight)](https://github.com/OOIU/project2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIU&repo=project3&theme=tokyonight)](https://github.com/OOIU/project3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIU&repo=project4&theme=tokyonight)](https://github.com/OOIU/project4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIUa&repo=project1&theme=tokyonight)](https://github.com/OOIUa/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIUa&repo=project2&theme=tokyonight)](https://github.com/OOIUa/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIUa&repo=project3&theme=tokyonight)](https://github.com/OOIUa/project3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIUa&repo=project4&theme=tokyonight)](https://github.com/OOIUa/project4)
 
 </div>
 
@@ -117,7 +117,7 @@ const ooiu = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OOIU&color=00ffaa&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=OOIUa&color=00ffaa&style=flat-square&label=Profile+Views" alt="Profile views" />
   
   ### ⭐ 从 0 到 1 很难，从 1 到 100 需要你的 Star ⭐
   

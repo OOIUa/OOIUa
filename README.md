@@ -1,8 +1,6 @@
-# 👋 你好，我是 OOIUa！
+# 👋 你好，我是 OOIU！
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=欢迎来到我的主页！;编码+%7C+创造+%7C+创新;OOIUa!" alt="Typing SVG" />
-</div>
+
 
 
 ## 🛠️ 技术栈

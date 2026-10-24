@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">OOIU — Code, create, share</title>
+  <desc id="desc">A midnight teal developer banner for OOIU, featuring Go, Web, and Android.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B1724"/>
+      <stop offset="1" stop-color="#0B302E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#79F2D2"/>
+      <stop offset="1" stop-color="#3DB9C8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#A8DBD7" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1280" height="340" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="340" fill="url(#bg)"/>
+    <rect width="1280" height="340" fill="url(#grid)"/>
+    <circle cx="1190" cy="-80" r="310" fill="#5DE9C0" opacity="0.035"/>
+    <circle cx="1260" cy="340" r="240" fill="#5DE9C0" opacity="0.035"/>
+    <path d="M0 339H1280" stroke="url(#accent)" stroke-width="3"/>
+    <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+      <rect x="64" y="53" width="7" height="7" rx="3.5" fill="#79F2D2"/>
+      <text x="83" y="63" fill="#A4BDBF" font-size="14" letter-spacing="3">A LITTLE SPACE FOR IDEAS</text>
+      <text x="60" y="181" fill="#F2F8F8" font-size="102" font-weight="750" letter-spacing="-4">OOIU<tspan fill="#79F2D2">.</tspan></text>
+      <text x="66" y="226" fill="#C8DBDD" font-size="23" letter-spacing="5">CODE. CREATE. SHARE.</text>
+      <path d="M66 260H108" stroke="#79F2D2" stroke-width="2"/>
+      <text x="123" y="265" fill="#8FAEB4" font-size="14" letter-spacing="2">GO / WEB / ANDROID</text>
+      <g transform="translate(1000 170)">
+        <circle r="121" fill="none" stroke="#7ADCCA" stroke-opacity="0.15"/>
+        <circle r="91" fill="none" stroke="#7ADCCA" stroke-opacity="0.14" stroke-dasharray="3 9"/>
+        <path d="M-145 0H145M0-145V145" stroke="#7ADCCA" stroke-opacity="0.09"/>
+        <rect x="-57" y="-57" width="114" height="114" rx="27" fill="#0D282D" stroke="#72E4C6" stroke-opacity="0.5" transform="rotate(-8)"/>
+        <path d="M-23-17-41 0-23 17M23-17 41 0 23 17M9-28-9 28" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <circle cx="0" cy="-121" r="6" fill="#79F2D2"/>
+        <circle cx="105" cy="60" r="4" fill="#56C6CD"/>
+        <circle cx="-105" cy="60" r="4" fill="#79F2D2"/>
+        <rect x="-153" y="-90" width="62" height="29" rx="14.5" fill="#112D34" stroke="#285452"/>
+        <text x="-122" y="-70" text-anchor="middle" fill="#BCEDE3" font-size="12" letter-spacing="1">GO</text>
+        <rect x="101" y="-54" width="68" height="29" rx="14.5" fill="#112D34" stroke="#285452"/>
+        <text x="135" y="-34" text-anchor="middle" fill="#BCEDE3" font-size="12" letter-spacing="1">WEB</text>
+        <rect x="-47" y="100" width="106" height="29" rx="14.5" fill="#112D34" stroke="#285452"/>
+        <text x="6" y="120" text-anchor="middle" fill="#BCEDE3" font-size="12" letter-spacing="1">ANDROID</text>
+      </g>
+    </g>
+  </g>
+</svg>

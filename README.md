@@ -1,113 +1,66 @@
-# 👋 你好，我是 OOIU！
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="OOIU — Code. Create. Share. Go / Web / Android" />
+</p>
 
+<h1 align="center">你好，我是 OOIU 👋</h1>
 
+<p align="center">把日常想法，写成实用的小工具。</p>
 
+<p align="center">
+  <a href="https://www.ooiu.cn">个人网站</a> &nbsp; / &nbsp;
+  <a href="https://github.com/OOIUa?tab=repositories">开源项目</a> &nbsp; / &nbsp;
+  <a href="mailto:ooiua.dev@gmail.com">联系我</a>
+</p>
 
-## 🛠️ 技术栈
+<br />
 
-<div align="center">
+### 关于这里
 
-### 💻 编程语言
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+这里放着我的 Go 服务、Android 应用和 Web 项目：有聚合信息的 API，也有日常使用的小应用和插件。喜欢从具体需求出发，把一个想法慢慢做成能用的东西。
 
-### 🔧 框架与工具
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 精选项目
 
-### 🗄️ 数据库
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OOIUa/DailyHot">DailyHot</a></h3>
+      <p>把各个平台的热门内容汇集到一起，提供统一的 JSON / RSS 接口。</p>
+      <p><code>Go</code> <code>API</code> <code>RSS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OOIUa/hongguo-android">Hongguo Android</a></h3>
+      <p>使用 Jetpack Compose 与 Media3 构建的原生 Android 短剧客户端。</p>
+      <p><code>Kotlin</code> <code>Compose</code> <code>Media3</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OOIUa/rainyun-ros-upload-wp">雨云对象存储 · WordPress</a></h3>
+      <p>将 WordPress 媒体库自动同步到雨云对象存储，兼容 S3 协议。</p>
+      <p><code>PHP</code> <code>WordPress</code> <code>S3</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/OOIUa/cccyun-pay-pro-template">彩虹易支付 Pro · 页面模板</a></h3>
+      <p>围绕支付流程制作的页面模板，涵盖首页、收银台和支付测试页。</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
 
-</div>
+<p align="right"><a href="https://github.com/OOIUa?tab=repositories">查看全部项目 →</a></p>
 
-## 📊 GitHub 统计
+### 技术工具箱
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OOIUa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OOIUa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+| 方向 | 技术与工具 |
+| :--- | :--- |
+| 服务与脚本 | `Go` · `Python` · `Node.js` · `PHP` |
+| Web 界面 | `TypeScript` · `JavaScript` · `Vue` · `React` · `HTML / CSS` |
+| Android | `Kotlin` · `Jetpack Compose` · `Media3` |
+| 数据与协作 | `MySQL` · `MongoDB` · `Git` |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OOIUa&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<br />
 
-## 🏆 GitHub 奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OOIUa&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
-
-## 📈 活跃度图表
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=OOIUa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
-## 🐍 看我吃掉你的贡献
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
-## 📫 联系我
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OOIUa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ooiua_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ooiua)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ooiua.dev@gmail.com)
-
-</div>
-
-## 🎵 现在在听什么
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&bar_color=00ffaa" />
-</div>
-
-## 📌 置顶项目
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIUa&repo=rainyun-ros-upload-wp&theme=tokyonight)](https://github.com/OOIUa/rainyun-ros-upload-wp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIUa&repo=project2&theme=tokyonight)](https://github.com/OOIUa/project2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIUa&repo=project3&theme=tokyonight)](https://github.com/OOIUa/project3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OOIUa&repo=project4&theme=tokyonight)](https://github.com/OOIUa/project4)
-
-</div>
-
-## ✨ 近期博客文章
-
-<!-- BLOG-POST-LIST:START -->
-- [文章标题 1](链接)
-- [文章标题 2](链接)
-- [文章标题 3](链接)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎮 空闲时我在玩
-
-<div align="center">
-  
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OOIUa&color=00ffaa&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  ### ⭐ 从 0 到 1 很难，从 1 到 100 需要你的 Star ⭐
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-</div>
+<p align="center">
+  <sub>保持好奇，慢慢做出好用的东西。</sub><br />
+  <sub>Thanks for stopping by.</sub>
+</p>

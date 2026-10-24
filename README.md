@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.ooiu.cn">个人网站</a> &nbsp; / &nbsp;
   <a href="https://github.com/OOIUa?tab=repositories">开源项目</a> &nbsp; / &nbsp;
-  <a href="mailto:ooiua.dev@gmail.com">联系我</a>
+  <a href="mailto:ooiucn@gmail.com">联系我</a>
 </p>
 
 <br />
